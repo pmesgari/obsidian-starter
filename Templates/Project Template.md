@@ -1,25 +1,35 @@
 # {{Project Name}}
 
-## 🔍 Overview
-Brief description of the project and goals.
+## 📝 Overview
+Brief description of the project, what it solves, why it's important.
 
-## 🚀 Milestones
-- [ ] Milestone 1
-- [ ] Milestone 2
+## 🎯 Goals
+- [ ] Goal 1
+- [ ] Goal 2
+- [ ] Goal 3
 
-## 📝 Notes
-- 
+## 🧠 Key Decisions
+- Week [[2025-W10]] — {{Decision made}}.
+- Week [[2025-W08]] — {{Another decision}}.
 
-## ❓ Open Questions
-- 
+## 🔄 Open Questions
+- {{Question 1}}
+- {{Question 2}}
 
-## 📊 Diagrams
+## 🛠️ Designs & Proposals
+- [Link to design document](https://)
+- Diagrams:
+
 ```mermaid
 graph TD
     A --> B
     B --> C
 ```
 
-## 📎 Related
-- [[STAR Wins]]
-- [Link to Jira Epic](https://)
+## 🐞 Known Issues
+- {{Issue 1}}
+- {{Issue 2}}
+
+## 🔗 Related Notes
+- [[Performance Improvements]]
+- [[Incident Response Improvements]]
